@@ -1,0 +1,16 @@
+{
+    "pacientes": [
+        {
+            "id": 100,
+            "nombre": "alex",
+            "email": "alex@gmail.com"
+        }
+    ],
+    "doctores": [
+        {
+            "id": 100016578,
+            "nombre": "gama",
+            "especialidad": "corazon"
+        }
+    ]
+}

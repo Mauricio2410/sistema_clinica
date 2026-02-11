@@ -9,6 +9,36 @@
             "id": 2,
             "nombre": "Alex",
             "email": "Alex@gmail.com"
+        },
+        {
+            "id": 1,
+            "nombre": "mauricio",
+            "email": "mauricio@gmail.com"
+        },
+        {
+            "id": 1,
+            "nombre": "Alex",
+            "email": "alexander@gmail.com"
+        },
+        {
+            "id": 10,
+            "nombre": "alex",
+            "email": "alex@gmail.com"
+        },
+        {
+            "id": 1,
+            "nombre": "alex",
+            "email": "alex@gmail.com"
+        },
+        {
+            "id": 2,
+            "nombre": "2",
+            "email": "3"
+        },
+        {
+            "id": 2,
+            "nombre": "2",
+            "email": "3"
         }
     ],
     "doctores": [
@@ -16,6 +46,11 @@
             "id": 100016578,
             "nombre": "gama",
             "especialidad": "corazon"
+        },
+        {
+            "id": 10,
+            "nombre": "Dr. Luis Alfaro",
+            "especialidad": "ginecologo"
         }
     ]
 }

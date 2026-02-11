@@ -4,6 +4,11 @@
             "id": 100,
             "nombre": "alex",
             "email": "alex@gmail.com"
+        },
+        {
+            "id": 2,
+            "nombre": "Alex",
+            "email": "Alex@gmail.com"
         }
     ],
     "doctores": [
